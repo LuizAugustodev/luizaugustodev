@@ -3,7 +3,7 @@
 - 🔭  Sou estudante de Front End
 - 🌱  Estudando atualmente Java Script
 - ⚡  Em direção ao Full Stack 
-- 👷  Formação - Técnico em Edificações
+- 🎡  Transição de carreira, da construção civil para a programação.
 
 </br>
 
