@@ -15,6 +15,7 @@ No dia a dia toco SaaS, apps desktop em Python e um jogo em Godot, quase tudo em
 ### Projeto em destaque
 
 **[Plantão](https://luizaugustodev.github.io/plantao/)** · [código](https://github.com/LuizAugustodev/plantao)
+
 Jornal pessoal de tecnologia: junta manchetes de dev, IA, segurança e lançamentos (RSS, Hacker News, CISA KEV, GitHub Advisories) numa página só. Node sem framework, atualiza sozinho a cada 15 min via GitHub Actions + Pages.
 
 ### Onde me achar
