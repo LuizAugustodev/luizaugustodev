@@ -1,7 +1,7 @@
 ## Oi, eu sou o Luiz 👋
 
 Dev full stack em Cuiabá-MT e fundador da **[Ziul](https://ziul.com.br)**, onde faço sites e sistemas web sob medida.
-Também estudo Engenharia Civil, e vim da construção civil pra programação.
+Também curso Engenharia Civil e quero unir as duas áreas: usar programação e IA em projetos de engenharia, com automação residencial pensada desde a planta.
 
 No dia a dia toco SaaS, apps desktop em Python e um jogo em Godot, quase tudo em paralelo.
 
