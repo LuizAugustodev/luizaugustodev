@@ -7,10 +7,12 @@ No dia a dia toco SaaS, apps desktop em Python e um jogo em Godot, quase tudo em
 
 ### Stack
 
-- **Front:** React · Vite · TypeScript · SvelteKit
+- **Front:** React · Vite · TypeScript · JavaScript · SvelteKit · HTML · CSS
 - **Back:** Python · FastAPI · Node.js
-- **Dados:** PostgreSQL · Supabase
-- **Jogos:** Godot (GDScript)
+- **Dados:** PostgreSQL (SQL) · Supabase
+- **Desktop:** Python · Tauri
+- **Jogos:** Godot (GDScript) · Unity (C#)
+- **Automação:** PowerShell
 
 ### Projeto em destaque
 
