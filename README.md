@@ -20,4 +20,4 @@ Jornal pessoal de tecnologia: junta manchetes de dev, IA, segurança e lançamen
 
 ### Onde me achar
 
-[ziul.com.br](https://ziul.com.br) · [LinkedIn](https://www.linkedin.com/in/luiz-augusto-da-silva-a2329267/)
+[ziul.com.br](https://ziul.com.br) · [LinkedIn](https://www.linkedin.com/in/devluizaugusto/)
